@@ -7,6 +7,7 @@ collection: portfolio
 # Method of Regularized Stokeslet
 
 > [!NOTE]
+>
 > **This work was done as a part of the final project for a special topics course titled _Boundary integral method_ in the fall of 22 by [Professor Cortez](https://sse.tulane.edu/math/faculty/cortez)**
 
 The fluid flow problems in tiny scales are usually modeled  by the Stokes equations for incompressible flows  
