@@ -31,7 +31,7 @@ $$\vec{u}(x)=\boldsymbol f_0 \dfrac{r^2+2\delta^2}{8\pi\mu(r^2+\delta^2)^{\frac{
 ## Swimming filament immersed in a viscous fluid
 
 We suppose the slender body is a sine wave,
-$$y(s)=A\cos(\lambda s-2\pi t),z(s)=0$$
+$$y(s)=A\cos(2\pi( s- t)),z(s)=0$$
 and $x(s)$ such that $\sqrt{(x')^2+(y')^2}=1$,
 and the curvature 
 $$\kappa=\frac{x''y'-y''x'}{(\sqrt{(x')^2+(y')^2})^{3}}=x''y'-y''x'=\frac{-y''}{\sqrt{1-(y')^2}}$$
