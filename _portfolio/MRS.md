@@ -6,9 +6,10 @@ collection: portfolio
 
 # Method of Regularized Stokeslet
 
-> [!Note]
+> [!NOTE]
 >
-> **This work was done as a part of the final project for a special topics course titled _Boundary integral method_ in the fall of 22 by [Professor Cortez](https://sse.tulane.edu/math/faculty/cortez)**
+>> **This work was done as a part of the final project for a special topics course titled _Boundary integral method_ in the fall of 22 by [Professor Cortez](https://sse.tulane.edu/math/faculty/cortez)**
+
 
 The fluid flow problems in tiny scales are usually modeled  by the Stokes equations for incompressible flows  
   $$\mu \Delta \textbf{u}=\nabla p-\textbf{F}, \nabla . \textbf{u}=0$$ where $\mu$ is the fluid viscosity, $p$ is the pressure, $\textbf{u}$ is the velocity, and $\textbf{F}$ is force density. A fundamental solution of these equations is called a $Stokeslet$. The particular case of a single force $\mathbf{f}_0$ exerted at $\mathbf{x}_0$ results in a velocity  field given by
@@ -42,8 +43,8 @@ Once we've computed forces at each point, we can calculate velocity. Then, the l
 
 It's worth mentioning that this model has been utilized for various problems; especially those related to the [motility of hyper-activated mammalian sperm](https://www.sciencedirect.com/science/article/abs/pii/S0022519314001635)[^3]. 
 
-> [!Note]
-> Source codes are available in [RegularizedStokeslet](https://github.com/muddin21/RegularizedStokeslet).
+> [!NOTE]
+>> Source codes are available in [RegularizedStokeslet](https://github.com/muddin21/RegularizedStokeslet).
 
 **References**
 [^1]: Ricardo Cortez. The Method of Regularized Stokeslets. SIAM Journal on Scientific Computing 2001 23:4, 1204-1225.
