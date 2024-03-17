@@ -6,7 +6,7 @@ collection: portfolio
 
 # Method of Regularized Stokeslet
 
-> [!NOTE]
+> [!Note]
 >
 > **This work was done as a part of the final project for a special topics course titled _Boundary integral method_ in the fall of 22 by [Professor Cortez](https://sse.tulane.edu/math/faculty/cortez)**
 
@@ -42,7 +42,7 @@ Once we've computed forces at each point, we can calculate velocity. Then, the l
 
 It's worth mentioning that this model has been utilized for various problems; especially those related to the [motility of hyper-activated mammalian sperm](https://www.sciencedirect.com/science/article/abs/pii/S0022519314001635)[^3]. 
 
-> [!NOTE]
+> [!Note]
 > Source codes are available in [RegularizedStokeslet](https://github.com/muddin21/RegularizedStokeslet).
 
 **References**
