@@ -20,7 +20,7 @@ Note this solution is undefined at $r=0$ or $\mathbf{x=x}_0$.
 
 However, the singularities can be eliminated through the function(usually known as blob function) $\phi_{\delta}(\mathbf{x})$ which is radially symmetric and satisfies that the integral over the space is one. So, considering $$\boldsymbol{F}=\boldsymbol f_0 \phi_{\delta}$$ the singularity can be removed. 
 
-The idea is due to [Professor Cortez](https://epubs.siam.org/doi/10.1137/S106482750038146X)[^1].
+The idea is due to Professor Cortez[^1].
 
 With the following choice of blob function:
 $$\phi_\delta(r)=\dfrac{15\delta^4}{8\pi(r^2+\delta^2)^{\frac{7}{2}}}$$
