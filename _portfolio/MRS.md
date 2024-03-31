@@ -45,7 +45,7 @@ It's worth mentioning that this model has been utilized for various problems; es
 
 > [!NOTE]
 >> Source codes are available in [RegularizedStokeslet](https://github.com/muddin21/RegularizedStokeslet).
-
+***
 **References**
 [^1]: Ricardo Cortez. The Method of Regularized Stokeslets. SIAM Journal on Scientific Computing 2001 23:4, 1204-1225.
 [^2]: Lisa J Fauci, Charles S Peskin, A computational model of aquatic animal locomotion, Journal of Computational Physics, Volume 77, Issue 1, 1988.
