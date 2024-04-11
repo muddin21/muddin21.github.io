@@ -20,7 +20,7 @@ Note this solution is undefined at $r=0$ or $\mathbf{x=x}_0$.
 
 However, the singularities can be eliminated through the function(usually known as blob function) $\phi_{\delta}(\mathbf{x})$ which is radially symmetric and satisfies that the integral over the space is one. So, considering $$\boldsymbol{F}=\boldsymbol f_0 \phi_{\delta}$$ the singularity can be removed. 
 
-The idea is due to [Professor Cortez](https://epubs.siam.org/doi/10.1137/S106482750038146X)[^1].
+The idea is due to [Professor Cortez](https://epubs.siam.org/doi/10.1137/S106482750038146X).
 
 With the following choice of blob function:
 $$\phi_\delta(r)=\dfrac{15\delta^4}{8\pi(r^2+\delta^2)^{\frac{7}{2}}}$$
@@ -37,17 +37,17 @@ and $x(s)$ such that $\sqrt{(x')^2+(y')^2}=1$,
 and the curvature 
 $$\kappa=\frac{x''y'-y''x'}{(\sqrt{(x')^2+(y')^2})^{3}}=x''y'-y''x'=\frac{-y''}{\sqrt{1-(y')^2}}$$
 To compute the forces, we've utilized the approach discussed in the article [A computational model of aquatic animal locomotion
-](https://www.sciencedirect.com/science/article/abs/pii/0021999188901581)[^2].
+](https://www.sciencedirect.com/science/article/abs/pii/0021999188901581).
 
 Once we've computed forces at each point, we can calculate velocity. Then, the locomotion of filament can be found by solving $\dfrac{d\boldsymbol X}{dt}=\boldsymbol u$. To solve this we have used the forward Euler method(other methods like RK can also be used).
 
-It's worth mentioning that this model has been utilized for various problems; especially those related to the [motility of hyper-activated mammalian sperm](https://www.sciencedirect.com/science/article/abs/pii/S0022519314001635)[^3]. 
+It's worth mentioning that this model has been utilized for various problems; especially those related to the [motility of hyper-activated mammalian sperm](https://www.sciencedirect.com/science/article/abs/pii/S0022519314001635). 
 
 > [!NOTE]
 >> Source codes are available in [RegularizedStokeslet](https://github.com/muddin21/RegularizedStokeslet).
 
-***
+<!--- ***
 **References**
-[^1]: Ricardo Cortez. The Method of Regularized Stokeslets. SIAM Journal on Scientific Computing 2001 23:4, 1204-1225.
-[^2]: Lisa J Fauci, Charles S Peskin, A computational model of aquatic animal locomotion, Journal of Computational Physics, Volume 77, Issue 1, 1988.
-[^3]: Julie Simons, Sarah Olson, Ricardo Cortez, Lisa Fauci, The dynamics of sperm detachment from epithelium in a coupled fluid-biochemical model of hyperactivated motility, Journal of Theoretical Biology, Volume 354, 2014.
+ [^1]: Ricardo Cortez. The Method of Regularized Stokeslets. SIAM Journal on Scientific Computing 2001 23:4, 1204-1225.
+[^2]: Lisa J Fauci, Charles S Peskin, A computational model of aquatic animal locomotion, Journal of Computational - Physics, Volume 77, Issue 1, 1988.
+[^3]: Julie Simons, Sarah Olson, Ricardo Cortez, Lisa Fauci, The dynamics of sperm detachment from epithelium in a coupled fluid-biochemical model of hyperactivated motility, Journal of Theoretical Biology, Volume 354, 2014. --->
