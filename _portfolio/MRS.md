@@ -4,7 +4,7 @@ excerpt: "Final project for a special topics course titled _Boundary Integral Me
 collection: portfolio
 ---
 
-# Method of Regularized Stokeslet
+## Method of Regularized Stokeslet
 
 > [!NOTE]
 >
