@@ -35,11 +35,12 @@ We suppose the slender body is a sine wave,
 $$y(s)=A\cos(2\pi( s- t)),z(s)=0$$
 and $x(s)$ such that $\sqrt{(x')^2+(y')^2}=1$,
 and the curvature 
-$$\kappa=\frac{x''y'-y''x'}{(\sqrt{(x')^2+(y')^2})^{3}}=x''y'-y''x'=\frac{-y''}{\sqrt{1-(y')^2}}$$
+$$\kappa=\frac{x''y'-y''x'}{(\sqrt{(x')^2+(y')^2})^{3}}=x''y'-y''x'=\frac{-y''}{\sqrt{1-(y')^2}}$$.
+
 To compute the forces, we've utilized the approach discussed in the article [A computational model of aquatic animal locomotion
 ](https://www.sciencedirect.com/science/article/abs/pii/0021999188901581).
 
-Once we've computed forces at each point, we can calculate velocity. Then, the locomotion of filament can be found by solving $\dfrac{d\boldsymbol X}{dt}=\boldsymbol u$. To solve this we have used the forward Euler method(other methods like RK can also be used).
+Once we've computed forces at each point, we can calculate velocity utilizing **Regularized Stokeslet**. Then, the locomotion of filament can be found by solving $\dfrac{d\boldsymbol X}{dt}=\boldsymbol u(\boldsymbol X(s,t),t)$. To solve this we have used the forward Euler method(other time-stepping methods (*e.g.* **RK**) can also be used).
 
 It's worth mentioning that this model has been utilized for various problems; especially those related to the [motility of hyper-activated mammalian sperm](https://www.sciencedirect.com/science/article/abs/pii/S0022519314001635). 
 
