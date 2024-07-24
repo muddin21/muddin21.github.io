@@ -15,4 +15,5 @@ In general, I'm interested in applying mathematics to study phenomena connected 
 Updates
 ======
 - This semester(**Spring '24**) I'm working as a Graduate Research Assistant(**GRA**) in Mathematics.
+- I continued my role as a **GRA** in Mathematics(**Summer '24**). 
 
