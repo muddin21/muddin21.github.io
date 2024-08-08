@@ -41,8 +41,8 @@ Once we've computed forces at each point, we can calculate velocity. Then, the l
 
 It's worth mentioning that this model has been utilized for various problems; especially those related to the [motility of hyper-activated mammalian sperm](https://www.sciencedirect.com/science/article/abs/pii/S0022519314001635)[^3]. 
 
-> [!NOTE]
 > Source codes are available in [RegularizedStokeslet](https://github.com/muddin21/RegularizedStokeslet).
+{: .note-title="Source code"}
 
 
 
