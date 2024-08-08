@@ -6,9 +6,8 @@ collection: portfolio
 
 # Method of Regularized Stokeslet
 
-> [!NOTE]
->
 > **This work was done as a part of the final project for a special topics course titled _Boundary integral method_ in the fall of 22 by [Professor Cortez](https://sse.tulane.edu/math/faculty/cortez)**
+{:title="Note"}
 
 The fluid flow problems in tiny scales are usually modeled  by the Stokes equations for incompressible flows  
   $$\mu \Delta \textbf{u}=\nabla p-\textbf{F}, \nabla . \textbf{u}=0$$ where $\mu$ is the fluid viscosity, $p$ is the pressure, $\textbf{u}$ is the velocity, and $\textbf{F}$ is force density. A fundamental solution of these equations is called a $Stokeslet$. The particular case of a single force $\mathbf{f}_0$ exerted at $\mathbf{x}_0$ results in a velocity  field given by
