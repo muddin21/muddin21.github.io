@@ -21,7 +21,7 @@ Work experience
 ======
 * Spring 2024--present: **Graduate Research Assistant**, Tulane University, New Orleans, LA-70118,USA
   * **Mentor**: [Lisa J. Fauci](https://sse.tulane.edu/math/faculty/fauci) and [Tommaso Buvoli](https://www.tommasobuvoli.com/)
-  * **Duties included**:  
+  * **Duties included**:
 * Summer 2023: **Mathematical oncology programmer**, Moffitt Cancer Center, Tampa, FL-33612, USA
   - **Mentor**:  [Kasia A. Rejniak](https://www.moffitt.org/research-science/researchers/katarzyna-rejniak/), [Rejniak Lab](http://rejniak.net/RejniakLab/people.html), Integrated Mathematical Oncology
   - **Duties included**:
@@ -68,7 +68,8 @@ Teaching
   
 Service and leadership
 ======
-* **Vice president**, SIAM student chapter, Tulane University (for 2022-23)
+* **President**, [SIAM student chapter, Tulane University](https://sites.google.com/view/tulanemath/home) (for 2024-25)
+* **Vice president**, [SIAM student chapter, Tulane University](https://sites.google.com/view/tulanemath/home) (for 2022-23)
 * Graduate student member- [American Mathematical Society](ams.org) (**AMS**)
 * Graduate student member- [Society for Industrial and Applied Mathematics](https://www.siam.org/) (**SIAM**)
 * Member, [American Physical Society](https://www.aps.org/)(**APS**)
