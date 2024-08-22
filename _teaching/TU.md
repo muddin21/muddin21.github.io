@@ -12,7 +12,10 @@ I am working as a Graduate teaching assistant (GTA) in Mathematics at [Tulane Un
 
 I worked as a **GTA** and assited lots of students for the following courses:
 * Calculus I 
-* Calculus II 
+* Calculus II
+* Calculus III
+* Consolidate Calculus
 * Statistics for Scientist
-* Consolidate Calculus 
+* Intro to Applied Math
+
 
