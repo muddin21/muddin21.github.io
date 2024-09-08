@@ -15,6 +15,7 @@ Applied Mathematics; an interdisciplinary branch of science is my active researc
 
 - Biological Fluid Dynamics
 - Numerical methods for Partial Differential Equations(PDEs)
+  -   Especially, I'm especially interested in time integration methods with better stability properties(e. g. [*IMEX* methods](https://www.sciencedirect.com/science/article/pii/S0168927497000561), [*Rosenbrock* methods](https://arxiv.org/pdf/2002.12028))
 - Computational Mathematics and Scientific Computing
 - Mathematical Biology
 - Scientific Machine Learning
