@@ -14,6 +14,7 @@ In general, I'm interested in applying mathematics to study phenomena connected 
 
 Updates
 ======
+- I'll present our work titled [Improving the performance of regularized Stokeslet simulations using linearly implicit integrators](https://meetings.aps.org/Meeting/DFD24/Session/ZC13.5) at the [APS DFD Annual Meeting 2024](https://dfd-meeting.aps.org/).
 - I'll be serving as the President of **[SIAM](https://siam.org)** student chapter at [Tulane University](https://tulane.edu) for the academic year 2024-25.
 - This semester(**Spring '24**) I'm working as a Graduate Research Assistant(**GRA**) in Mathematics.
 - I continued my role as a **GRA** in Mathematics(**Summer '24**). 
