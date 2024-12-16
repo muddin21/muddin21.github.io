@@ -11,17 +11,20 @@ redirect_from:
 Education
 ======
 * Ph.D. in Mathematics, Tulane University, 2021--present
-  * **Advisor**: [Lisa J. Fauci](https://sse.tulane.edu/math/faculty/fauci), Pendergraft Nola Lee Haynes Professor, Tulane University
+  * **Advisors**: * [Lisa J. Fauci](https://sse.tulane.edu/math/faculty/fauci), Pendergraft Nola Lee Haynes Professor, Tulane University
+                  * [Tommaso Buvoli](https://tommasobuvoli.com/), Assistant Professor, Tulane University
 * M.S. in Applied Mathematics, University of Chittagong, 2019
   * **Thesis**: *Viscous fluid flow due to motion of boundaries or gravity*
-  * Part of the thesis work(with extension) was published in a [research article](https://doi.org/10.1016/j.aej.2022.03.023).
+  * Part of the thesis work (with extension) was published in a [research article](https://doi.org/10.1016/j.aej.2022.03.023).
 * B.Sc. in Mathematics, University of Chittagong, 2017
 
 Work experience
 ======
-* Spring 2024--present: **Graduate Research Assistant**, Tulane University, New Orleans, LA-70118,USA
+* Spring 2024-- Summer 2024: **Graduate Research Assistant**, Tulane University, New Orleans, LA-70118,USA
   * **Mentor**: [Lisa J. Fauci](https://sse.tulane.edu/math/faculty/fauci) and [Tommaso Buvoli](https://www.tommasobuvoli.com/)
   * **Duties included**:
+      - My works aim to bridge bio-fluid with numerical methods for differential equations.
+      - Presented preliminary results at the [APS DFD 2024](https://dfd-meeting.aps.org/) titled [Improving the performance of regularized Stokeslet simulations using linearly implicit integrators](https://meetings.aps.org/Meeting/DFD24/Session/ZC13.5).
 * Summer 2023: **Mathematical oncology programmer**, Moffitt Cancer Center, Tampa, FL-33612, USA
   - **Mentor**:  [Kasia A. Rejniak](https://www.moffitt.org/research-science/researchers/katarzyna-rejniak/), [Rejniak Lab](http://rejniak.net/RejniakLab/people.html), Integrated Mathematical Oncology
   - **Duties included**:
@@ -33,7 +36,12 @@ Work experience
     * Participating in the Math Center to assist undergrads.
 * Feb 2020 -- July 2021: **Instructor** in Math, Dept. of Computer Science, Prime University, Dhaka-1216, Bangladesh.
   * **Duties included**:
-    * Taught courses in I) Differential & Integral Calculus, II) Linear Algebra & Matrix analysis, III) Complex Variables & Transform Methods, IV) Co-ordinate Geometry & Vector Analysis, and V) Differential Equations & Numerical Methods.
+    * Taught courses titled:
+      - Differential & Integral Calculus, 
+      - Linear Algebra & Matrix analysis, 
+      - Complex Variables & Transform Methods, 
+      - Co-ordinate Geometry & Vector Analysis, and 
+      - Differential Equations & Numerical Methods.
     * Created course plans, questions, and evaluated assignments, and exam scripts. Involved in student advising and trained in curriculum development.
   
 Skills
