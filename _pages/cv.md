@@ -11,8 +11,9 @@ redirect_from:
 Education
 ======
 * Ph.D. in Mathematics, Tulane University, 2021--present
-  * **Advisors**: * [Lisa J. Fauci](https://sse.tulane.edu/math/faculty/fauci), Pendergraft Nola Lee Haynes Professor, Tulane University
-                  * [Tommaso Buvoli](https://tommasobuvoli.com/), Assistant Professor, Tulane University
+  * **Advisors**: 
+      * [Lisa J. Fauci](https://sse.tulane.edu/math/faculty/fauci), Pendergraft Nola Lee Haynes Professor, Tulane University
+      * [Tommaso Buvoli](https://tommasobuvoli.com/), Assistant Professor, Tulane University
 * M.S. in Applied Mathematics, University of Chittagong, 2019
   * **Thesis**: *Viscous fluid flow due to motion of boundaries or gravity*
   * Part of the thesis work (with extension) was published in a [research article](https://doi.org/10.1016/j.aej.2022.03.023).
@@ -21,7 +22,7 @@ Education
 Work experience
 ======
 * Spring 2024-- Summer 2024: **Graduate Research Assistant**, Tulane University, New Orleans, LA-70118,USA
-  * **Mentor**: [Lisa J. Fauci](https://sse.tulane.edu/math/faculty/fauci) and [Tommaso Buvoli](https://www.tommasobuvoli.com/)
+  * **Mentors**: [Lisa J. Fauci](https://sse.tulane.edu/math/faculty/fauci) and [Tommaso Buvoli](https://www.tommasobuvoli.com/)
   * **Duties included**:
       - My works aim to bridge bio-fluid with numerical methods for differential equations.
       - Presented preliminary results at the [APS DFD 2024](https://dfd-meeting.aps.org/) titled [Improving the performance of regularized Stokeslet simulations using linearly implicit integrators](https://meetings.aps.org/Meeting/DFD24/Session/ZC13.5).
