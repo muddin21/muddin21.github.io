@@ -2,7 +2,7 @@
 title: "Instructor"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/TU
+permalink: /teaching/TUT
 venue: "Tulane University, Department of Mathematics"
 date: 2025-08-18
 location: "New Orleans, LA-70118, USA"
