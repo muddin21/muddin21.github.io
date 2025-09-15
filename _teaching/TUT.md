@@ -1,5 +1,5 @@
 ---
-title: "Instructor"
+title: "Instructor in record"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/TUT
