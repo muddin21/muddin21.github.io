@@ -2,7 +2,7 @@
 title: "Instructor"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2021-spring-teaching-1
 venue: "Prime University, Department of CSE"
 date: 2020-02-01 to 2021-07-31
 location: "Dhaka, Bangladesh"
