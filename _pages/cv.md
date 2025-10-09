@@ -24,8 +24,8 @@ Work experience
 * Spring 2024-- Summer 2024: **Graduate Research Assistant**, Tulane University, New Orleans, LA-70118,USA
   * **Mentors**: [Lisa J. Fauci](https://sse.tulane.edu/math/faculty/fauci) and [Tommaso Buvoli](https://www.tommasobuvoli.com/)
   * **Duties included**:
-      - My works aim to bridge bio-fluid with numerical methods for differential equations.
-      - Presented preliminary results at the [APS DFD 2024](https://dfd-meeting.aps.org/) titled [Improving the performance of regularized Stokeslet simulations using linearly implicit integrators](https://meetings.aps.org/Meeting/DFD24/Session/ZC13.5).
+      - My works aim to enhance biofluid simulation performance (especially those occurring at small scales) by utilizing numerical methods for approximating the resulting governing equations.
+      - Presented part of preliminary results at the [APS DFD 2024](https://dfd-meeting.aps.org/) titled [Improving the performance of regularized Stokeslet simulations using linearly implicit integrators](https://meetings.aps.org/Meeting/DFD24/Session/ZC13.5).
 * Summer 2023: **Mathematical oncology programmer**, Moffitt Cancer Center, Tampa, FL-33612, USA
   - **Mentor**:  [Kasia A. Rejniak](https://www.moffitt.org/research-science/researchers/katarzyna-rejniak/), [Rejniak Lab](http://rejniak.net/RejniakLab/people.html), Integrated Mathematical Oncology
   - **Duties included**:
