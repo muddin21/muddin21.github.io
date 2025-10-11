@@ -9,7 +9,7 @@ location: "New Orleans, LA-70118, USA"
 ---
 
 
-This semester (Fall 2025), I am working as an **Istructor** for the following course:
+This semester (Fall 2025), I am working as an **Instructor** for the following course:
 * Long Calculus I 
 
 
