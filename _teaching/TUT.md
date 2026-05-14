@@ -9,8 +9,8 @@ location: "New Orleans, LA-70118, USA"
 ---
 
 
-This semester (Fall 2025), I am working as an **Instructor** for the following course:
-* Long Calculus I 
+I served as an Instructor for the following courses at Tulane University during the academic year 2025-26: **Long Calculus I and II**. I received a **Graduate Teaching Award** from the Graduate Studies Committee for my teaching services.
 
+<br/><img src='/images/gta.jpg'>"
 
 

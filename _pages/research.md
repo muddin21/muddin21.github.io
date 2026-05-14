@@ -11,15 +11,17 @@ redirect_from:
 
 Fields of Interest
 ======
-Applied Mathematics, an interdisciplinary branch of science is my active research zone. Researchers in this domain are mostly interested in investigating different natural phenomena mathematically, which includes mathematical modeling, analysis, and so on. Although I am fascinated by the study of any discipline of Applied Mathematics, with great numbers of fields within this field of science, primarily I am motivated to explore the following fields:
+Applied Mathematics is an interdisciplinary field that represents the focus of my ongoing research. Researchers in this domain are primarily engaged in the mathematical investigation of various natural phenomena, encompassing mathematical modeling, analysis, and related pursuits. While I find all areas of Applied Mathematics captivating, I am particularly motivated to study:
 
 - Biological Fluid Dynamics (biofluid)
-  - Stokes' Equations for modelling biofluid problems
-- Numerical methods for Partial Differential Equations(PDEs) (method of line (MOL) based)
-  -   Especially, I'm especially interested in time integration methods with better stability properties (e.g., [*IMEX* methods](https://www.sciencedirect.com/science/article/pii/S0168927497000561), [*Rosenbrock* methods](https://arxiv.org/pdf/2002.12028), Stabilized explicit RK methods, such as [Runge-Kutta-Chebyshev](https://link.springer.com/article/10.1007/BF01386405)).
+  - Particularly, I am interested in enhancing [Method of regularized Stokeslet](https://pubs.aip.org/aip/pof/article/17/3/031504/314199/The-method-of-regularized-Stokeslets-in-three) based biofluid flow simulations,
+- Numerical methods for Partial Differential Equations(PDEs)
+  - Especially, I am interested in time integration methods with enhanced stability properties and low cost (e.g.,[*Rosenbrock* methods](https://arxiv.org/pdf/2002.12028), Stabilized explicit RK methods, such as [Runge-Kutta-Chebyshev](https://link.springer.com/article/10.1007/BF01386405)).
 - Scientific Machine Learning
-  - Neural and Latent ODEs
-  - Physics-informed neural networks (PINNs) 
-  - linear and nonlinear Model order reduction (MOR) for PDEs
+  - Operator Learning (e.g., [DeepONet](https://www.nature.com/articles/s42256-021-00302-5)),
+  - [Neural ODEs](https://arxiv.org/abs/1806.07366),
+  - [Physics-informed neural networks (PINNs)] (https://www.sciencedirect.com/science/article/pii/S0021999118307125),
+  - Linear and nonlinear Model order reduction (MOR) for dynamical systems)
+
 
 
