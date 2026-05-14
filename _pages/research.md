@@ -20,8 +20,8 @@ Applied Mathematics is an interdisciplinary field that represents the focus of m
 - Scientific Machine Learning
   - Operator Learning (e.g., [DeepONet](https://www.nature.com/articles/s42256-021-00302-5)),
   - [Neural ODEs](https://arxiv.org/abs/1806.07366),
-  - [Physics-informed neural networks (PINNs)] (https://www.sciencedirect.com/science/article/pii/S0021999118307125),
-  - Linear and nonlinear Model order reduction (MOR) for dynamical systems
+  - [Physics-informed neural networks (PINNs)](https://www.sciencedirect.com/science/article/pii/S0021999118307125),
+  - Linear and nonlinear Model order reduction (MOR) for dynamical systems.
 
 
 
