@@ -14,9 +14,9 @@ In general, I am interested in applying mathematics to study phenomena connected
 
 Updates
 ======
-- I continued my role as a GRA in Mathematics (**Summer '26**). 
+- I will be presenting my research at the [SIAM AN26 conference](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=89262). I would appreciate the opportunity to discuss my work with you and contribute to our shared field of study.
 - I was awarded with graduate teaching award for AY 2025-26.
-- I will be presenting my work at the [SIAM AN26](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=89262).
+- I continued my role as a GRA in Mathematics (**Summer '26**). 
 - I have presented our work titled [Improving the performance of regularized Stokeslet simulations using linearly implicit integrators](https://meetings.aps.org/Meeting/DFD24/Session/ZC13.5) at the [APS DFD Annual Meeting 2024](https://dfd-meeting.aps.org/).
 - It is my pleasure to be able to serve as the president of [SIAM](https://siam.org) student chapter at [Tulane University](https://tulane.edu) for the academic year 2024-25.
 
