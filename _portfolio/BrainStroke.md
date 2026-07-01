@@ -1,5 +1,5 @@
 ---
-title: "Predictiing Brain Stroke counts by Analyzing Brain Stroke Dataset"
+title: "Predicting Brain Stroke counts by Analyzing Brain Stroke Dataset"
 excerpt: "Final project for the [data  analysis](https://tulane-math-7360-2023.github.io/) course<br/><center>
     <img src='/images/cr.png'>
 </center>"
