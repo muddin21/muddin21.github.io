@@ -16,7 +16,7 @@ Applied Mathematics is an interdisciplinary field that represents the focus of m
 - Biological Fluid Dynamics (biofluid)
   - Particularly, I am interested in enhancing [Method of regularized Stokeslet](https://pubs.aip.org/aip/pof/article/17/3/031504/314199/The-method-of-regularized-Stokeslets-in-three) based biofluid flow simulations utilizing numerical methods.
 - Numerical methods for Partial Differential Equations(PDEs)
-  - Especially, I am interested in time integration methods with enhanced stability properties and low cost (e.g.,[*Rosenbrock* methods](https://arxiv.org/pdf/2002.12028), Stabilized explicit RK methods, such as [Runge-Kutta-Chebyshev](https://link.springer.com/article/10.1007/BF01386405)).
+  - Especially, I am interested in time integration methods with enhanced stability properties and low cost (e.g., [*Rosenbrock* methods](https://arxiv.org/pdf/2002.12028), Stabilized explicit RK methods, such as [Runge-Kutta-Chebyshev](https://link.springer.com/article/10.1007/BF01386405)).
 - Scientific Machine Learning
   - Operator Learning (e.g., [DeepONet](https://www.nature.com/articles/s42256-021-00302-5)),
   - [Neural ODEs](https://arxiv.org/abs/1806.07366),
